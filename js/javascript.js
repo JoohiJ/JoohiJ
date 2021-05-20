@@ -3,7 +3,7 @@ var socialtags = [{
     link: "https://github.com/JoohiJ"
 }, {
     img: "img/linkedin.svg",
-    link: "https://www.linkedin.com/in/joohi-jain-5115ab153/"
+    link: "https://www.linkedin.com/in/joohi-jain"
 }, {
     img: "img/twitter.svg",
     link: "https://twitter.com/juhijain93"
